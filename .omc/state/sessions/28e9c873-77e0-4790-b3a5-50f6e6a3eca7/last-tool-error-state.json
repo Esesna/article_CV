@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"ls -la /home/esesna/Work/global_vision_position/; which uv python3 jupyter pip; python3 --version; uv --version 2>/dev/null\",\"description\":\"Inspect parent project and available tooling\"}",
+  "error": "Exit code 127\ntotal 8\ndrwxr-xr-x 1 esesna esesna  204 Oct 29 11:24 .\ndrwxr-xr-x 1 esesna esesna 1058 Oct 21 18:40 ..\ndrwxr-xr-x 1 esesna esesna  196 Sep 29 18:33 camera_calibration\ndrwxr-xr-x 1 esesna esesna  268 Oct 21 16:43 global_vision\n-rwxr-xr-x 1 esesna esesna 5684 Oct  1 14:50 http-forward.py\ndrwxr-xr-x 1 esesna esesna   10 Sep 29 16:34 .omc\ndrwxr-xr-x 1 esesna esesna  172 Sep 29 16:43 socket_viewer\ndrwxr-xr-x 1 esesna esesna  406 Sep 29 17:27 stella_vslam_ros\ndrwxr-xr-x 1 esesna esesna  ...",
+  "timestamp": "2026-10-29T12:15:46.737Z",
+  "retry_count": 1
+}

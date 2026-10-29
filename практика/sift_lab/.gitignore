@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+# скачанные примеры OpenCV (перекачиваются автоматически)
+data/

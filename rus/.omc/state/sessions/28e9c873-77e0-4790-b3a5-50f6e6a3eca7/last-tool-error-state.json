@@ -1,0 +1,7 @@
+{
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/home/esesna/Work/global_vision_position/статьи/rus/LoFTR_перевод.md\",\"limit\":394}",
+  "error": "File content (28876 tokens) exceeds maximum allowed tokens (25000). Use offset and limit parameters to read specific portions of the file, or search for specific content instead of reading the whole file. To read it anyway, up to what still fits in your context, call Read again with allow_large: true — only if you genuinely need all of it or the user asked for the whole file.",
+  "timestamp": "2026-10-29T09:20:36.720Z",
+  "retry_count": 1
+}
